@@ -2,12 +2,13 @@
   
   ![eye](https://github.com/Dismalitie/Doxel/assets/118924562/f2fcb86f-9b32-4c6e-8233-ed6386a94bca)
 
-
-
   # Doxel
 
  Local Machine Network and Hardware testing tool
 </div>
+
+> [!WARNING]
+> Doxel has little to no error handling. **Make sure you read the instructions below to figure out how to actually use it.**
 
 ## How do I use this?
 **This is a CLI application.** Download all `dll` and `exe` files in the [`bin` directory](https://github.com/Dismalitie/Doxel/tree/main/Doxel/bin/Debug) to a folder. Then run the application with an argument to a Discord Webhook Link:
