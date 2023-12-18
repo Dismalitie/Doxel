@@ -1,0 +1,11 @@
+C:\Users\harry\source\repos\Doxel\Doxel\bin\Debug\Doxel.exe.config
+C:\Users\harry\source\repos\Doxel\Doxel\bin\Debug\Doxel.exe
+C:\Users\harry\source\repos\Doxel\Doxel\bin\Debug\Doxel.pdb
+C:\Users\harry\source\repos\Doxel\Doxel\bin\Debug\DiscordWebhook.dll
+C:\Users\harry\source\repos\Doxel\Doxel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\harry\source\repos\Doxel\Doxel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\harry\source\repos\Doxel\Doxel\obj\Debug\Doxel.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\Doxel\Doxel\obj\Debug\Doxel.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\Doxel\Doxel\obj\Debug\Doxel.csproj.CopyComplete
+C:\Users\harry\source\repos\Doxel\Doxel\obj\Debug\Doxel.exe
+C:\Users\harry\source\repos\Doxel\Doxel\obj\Debug\Doxel.pdb
